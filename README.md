@@ -3,7 +3,7 @@
 
 <!-- Typing -->
 <div align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=08FF16&vCenter=true&width=600&lines=Future+AI+%26+ML+Engineer%E2%9A%A1;CS+%26+AI+Student+%40+Cairo+University;Let's+Build+Something+Useful+Together!" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=08FF16&vCenter=true&width=600&lines=Future+AI+%26+ML+Engineer%E2%9A%A1;CS+%26+AI+Student+%40+Cairo+University;Let's+Build+Something+Useful+Together!" alt="Typing SVG" />
 </div>
 
 <!-- Badges -->
