@@ -48,7 +48,7 @@
   </a>
 </p>
 
-### <img src="./images/frameworks&technologies.gif" width="50"> Frameworks, Technologies and libraries
+### <img src="./images/frameworks&technologies.gif" width="30"> Frameworks, Technologies and libraries
 
 <p align="center">
   <a href="https://skillicons.dev">
