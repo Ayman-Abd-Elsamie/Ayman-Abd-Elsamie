@@ -24,15 +24,13 @@
 
 <p align="center">
 	<a href="https://github.com/Ayman-Abd-Elsamie" target="_blank">
-		<img src="./images/github.png" alt="Github"/>
+		<img src="./images/github.png" width="55" alt="Github"/>
 	</a>
-	&emsp;
 	<a href="ayman.ahmed.abdelsamie@gmail.com" target="_blank">
-		<img src="./images/Gmail.png" alt="Gmail"/>
+		<img src="./images/Gmail.png" width="100" alt="Gmail"/>
 	</a>
-	&emsp;
 	<a href="https://www.linkedin.com/in/ayman-ahmed-abdelsamie/" target="_blank">
-		<img src="./images/linkedin.png" alt="Linkedin"/>
+		<img src="./images/linkedin.png" width="55" alt="Linkedin"/>
 	</a>
 	&emsp;
 </p>
