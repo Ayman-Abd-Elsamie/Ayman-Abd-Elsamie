@@ -20,15 +20,17 @@
 
 ---
 
-## <img src="./images/contact_me.gif" width="25"> Contact me:
+## <img src="./images/contact_me.gif" width="30"> Contact me:
 
 <p align="center">
 	<a href="https://github.com/Ayman-Abd-Elsamie" target="_blank">
 		<img src="./images/github.png" width="55" alt="Github"/>
 	</a>
+	&emsp;
 	<a href="ayman.ahmed.abdelsamie@gmail.com" target="_blank">
-		<img src="./images/Gmail.png" width="100" alt="Gmail"/>
+		<img src="./images/Gmail_copy.png" width="65" alt="Gmail"/>
 	</a>
+	&emsp;
 	<a href="https://www.linkedin.com/in/ayman-ahmed-abdelsamie/" target="_blank">
 		<img src="./images/linkedin.png" width="55" alt="Linkedin"/>
 	</a>
@@ -38,7 +40,7 @@
 <hr style="height: 5px; background-color: #666; border: none; border-radius: 3px;" />
 <br>
 
-## <img src="./images/my_tools.gif" width="35"> My tools
+## <img src="./images/my_tools.gif" width="40"> My tools
 
 ### <img src="./images/programming_languages.gif" width="20"> Programming languages
 
@@ -70,7 +72,7 @@
 <img alt="Google ADK" src="https://img.shields.io/badge/Google%20ADK-0A0A0A?logo=googlegemini&logoColor=#8E75B2"> -->
 </p>
 
-### <img src="./images/software_and_tools.gif" width="25"> Software and tools
+### <img src="./images/software_and_tools.gif" width="30"> Software and tools
 
 <p align="center">
 	<a href="https://skillicons.dev">
