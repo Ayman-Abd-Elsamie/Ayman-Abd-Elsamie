@@ -28,7 +28,7 @@
 	</a>
 	&emsp;
 	<a href="mailto:ayman.ahmed.abdelsamie@gmail.com" target="_blank">
-		<img src="./images/Gmail_copy.png" width="65" alt="Gmail"/>
+		<img src="./images/Gmail.png" width="65" alt="Gmail"/>
 	</a>
 	&emsp;
 	<a href="https://www.linkedin.com/in/ayman-ahmed-abdelsamie/" target="_blank">
