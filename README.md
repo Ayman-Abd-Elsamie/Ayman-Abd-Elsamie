@@ -13,16 +13,36 @@
  	<img src="https://img.shields.io/github/followers/Ayman-Abd-Elsamie?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
----
+<hr style="height: 5px; background-color: #666; border: none; border-radius: 3px;" />
 
 <!-- About me -->
-## About me:
+## <img src="./images/about_me.gif"> About me:
 
 ---
 
-## 🛠️ My tools
+## <img src="./images/contact_me.gif"> Contact me:
 
-### 👨‍💻 Programming languages
+<p align="center">
+	<a href="https://github.com/Ayman-Abd-Elsamie" target="_blank">
+		<img src="./images/github.png" alt="Github"/>
+	</a>
+	&emsp;
+	<a href="ayman.ahmed.abdelsamie@gmail.com" target="_blank">
+		<img src="./images/Gmail.png" alt="Gmail"/>
+	</a>
+	&emsp;
+	<a href="https://www.linkedin.com/in/ayman-ahmed-abdelsamie/" target="_blank">
+		<img src="./images/linkedin.png" alt="Linkedin"/>
+	</a>
+	&emsp;
+</p>
+
+<hr style="height: 5px; background-color: #666; border: none; border-radius: 3px;" />
+<br>
+
+## <img src="./images/my_tools.gif"> My tools
+
+### <img src="./images/programming_languages.gif"> Programming languages
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -30,7 +50,7 @@
   </a>
 </p>
 
-### 🧰 Frameworks, Technologies and libraries
+### <img src="./images/frameworks&technologies.gif"> Frameworks, Technologies and libraries
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -52,7 +72,7 @@
 <img alt="Google ADK" src="https://img.shields.io/badge/Google%20ADK-0A0A0A?logo=googlegemini&logoColor=#8E75B2"> -->
 </p>
 
-### 💻 Software and tools
+### <img src="./images/software_and_tools.gif"> Software and tools
 
 <p align="center">
 	<a href="https://skillicons.dev">
@@ -69,10 +89,10 @@
 	<img alt="Lightning AI" src="https://img.shields.io/badge/Lightning%20AI-792EE5.svg?logo=lightning&logoColor=white"> -->
 </p>
 
----
+<hr style="height: 5px; background-color: #666; border: none; border-radius: 3px;" />
 <br>
 
-## <img src="https://media.giphy.com/media/IzLejEn5juzsLN4AqX/giphy.gif" width="20"> GitHub Stats
+## <img src="./images/stats.gif"> GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayman-Abd-Elsamie&theme=github-dark&hide_border=true" />
 </p>
