@@ -16,11 +16,11 @@
 <hr style="height: 5px; background-color: #666; border: none; border-radius: 3px;" />
 
 <!-- About me -->
-## <img src="./images/about_me.gif"> About me:
+## <img src="./images/about_me.gif" width="25"> About me:
 
 ---
 
-## <img src="./images/contact_me.gif"> Contact me:
+## <img src="./images/contact_me.gif" width="25"> Contact me:
 
 <p align="center">
 	<a href="https://github.com/Ayman-Abd-Elsamie" target="_blank">
@@ -38,9 +38,9 @@
 <hr style="height: 5px; background-color: #666; border: none; border-radius: 3px;" />
 <br>
 
-## <img src="./images/my_tools.gif"> My tools
+## <img src="./images/my_tools.gif" width="35"> My tools
 
-### <img src="./images/programming_languages.gif"> Programming languages
+### <img src="./images/programming_languages.gif" width="20"> Programming languages
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -48,7 +48,7 @@
   </a>
 </p>
 
-### <img src="./images/frameworks&technologies.gif"> Frameworks, Technologies and libraries
+### <img src="./images/frameworks&technologies.gif" width="50"> Frameworks, Technologies and libraries
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -70,7 +70,7 @@
 <img alt="Google ADK" src="https://img.shields.io/badge/Google%20ADK-0A0A0A?logo=googlegemini&logoColor=#8E75B2"> -->
 </p>
 
-### <img src="./images/software_and_tools.gif"> Software and tools
+### <img src="./images/software_and_tools.gif" width="25"> Software and tools
 
 <p align="center">
 	<a href="https://skillicons.dev">
@@ -90,7 +90,7 @@
 <hr style="height: 5px; background-color: #666; border: none; border-radius: 3px;" />
 <br>
 
-## <img src="./images/stats.gif"> GitHub Stats
+## <img src="./images/stats.gif" width="20"> GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayman-Abd-Elsamie&theme=github-dark&hide_border=true" />
 </p>
