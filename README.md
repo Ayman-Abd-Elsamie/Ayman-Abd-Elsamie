@@ -3,7 +3,7 @@
 
 <!-- Typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=08FF16&center=true&vCenter=true&width=600&lines=Future+AI+%26+ML+Engineer%E2%9A%A1;CS+%26+AI+Student+%40+Cairo+University;Let's+Build+Something+Useful+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=08FF16&center=true&vCenter=true&width=600&lines=CS+%26+AI+Student+%40+Cairo+University;Future+AI+%26+ML+Engineer%E2%9A%A1;Let's+Build+Something+Useful+Together!" alt="Typing SVG" />
 </div>
 
 <!-- Badges -->
@@ -16,18 +16,18 @@
 <hr style="height: 5px; background-color: #666; border: none; border-radius: 3px;" />
 
 <!-- About me -->
-## <img src="./images/about_me.gif" width="25"> About me:
+## <img src="./images/about_me.gif" width="20"> About me:
 
 ---
 
-## <img src="./images/contact_me.gif" width="30"> Contact me:
+## <kbd><img src="./images/contact_me.gif" width="25"></kbd> Contact me:
 
 <p align="center">
 	<a href="https://github.com/Ayman-Abd-Elsamie" target="_blank">
 		<img src="./images/github.png" width="55" alt="Github"/>
 	</a>
 	&emsp;
-	<a href="ayman.ahmed.abdelsamie@gmail.com" target="_blank">
+	<a href="mailto:ayman.ahmed.abdelsamie@gmail.com" target="_blank">
 		<img src="./images/Gmail_copy.png" width="65" alt="Gmail"/>
 	</a>
 	&emsp;
@@ -40,7 +40,7 @@
 <hr style="height: 5px; background-color: #666; border: none; border-radius: 3px;" />
 <br>
 
-## <img src="./images/my_tools.gif" width="40"> My tools
+## <img src="./images/my_tools.gif" width="45"> My tools
 
 ### <img src="./images/programming_languages.gif" width="20"> Programming languages
 
@@ -50,7 +50,7 @@
   </a>
 </p>
 
-### <img src="./images/frameworks&technologies.gif" width="30"> Frameworks, Technologies and libraries
+### <img src="./images/frameworks&technologies.gif" width="30" align="middle"> Frameworks, Technologies and libraries
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -72,7 +72,7 @@
 <img alt="Google ADK" src="https://img.shields.io/badge/Google%20ADK-0A0A0A?logo=googlegemini&logoColor=#8E75B2"> -->
 </p>
 
-### <img src="./images/software_and_tools.gif" width="30"> Software and tools
+### <img src="./images/software_and_tools.gif" width="30" align="middle"> Software and tools
 
 <p align="center">
 	<a href="https://skillicons.dev">
