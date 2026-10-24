@@ -27,8 +27,8 @@
 		<img src="./images/github.png" width="55" alt="Github"/>
 	</a>
 	&emsp;
-	<a href="mailto:ayman.ahmed.abdelsamie@gmail.com" target="_blank">
-		<img src="./images/Gmail.png" width="65" alt="Gmail"/>
+	<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayman.ahmed.abdelsamie@gmail.com" target="_blank">
+  		<img src="./images/Gmail.png" width="65" alt="Gmail"/>
 	</a>
 	&emsp;
 	<a href="https://www.linkedin.com/in/ayman-ahmed-abdelsamie/" target="_blank">
@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,markdown" alt="Programming Languages"/>
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,markdown" alt="Programming Languages"/>
   </a>
 </p>
 
@@ -92,10 +92,45 @@
 <hr style="height: 5px; background-color: #666; border: none; border-radius: 3px;" />
 <br>
 
-## <img src="./images/stats.gif" width="20"> GitHub Stats
+## <img src="./images/stats.gif" width="20"> GitHub Analytics:
+
+<!-- Streak Status-->
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayman-Abd-Elsamie&theme=github-dark&hide_border=true" />
 </p>
+</details>
+
+<!-- Contributions Stats-->
+<details><summary><h3>💻 Contribution Stats</h3></summary>
+
+----
+
+<p align="center">
+	<img alt="Ayman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayman-Abd-Elsamie&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/>
+<br/>
+</p>
+</details>
+
+<!-- Top Languages -->
+<details><summary><h3>📊 Top Languages</h3></summary>
+
+----
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayman-Abd-Elsamie&layout=pie&theme=dark&hide=html,jupyter%20notebook" alt="Top Languages">
+</p>
+
+<br/>
+</details>
+
+<!-- ## <img src="./images/stats.gif" width="20"> GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayman-Abd-Elsamie&theme=github-dark&hide_border=true" />
+</p> -->
 
 <!--
 Here are some ideas to get you started:
