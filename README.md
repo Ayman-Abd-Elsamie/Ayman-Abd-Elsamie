@@ -18,6 +18,13 @@
 <!-- About me -->
 ## <img src="./images/about_me.gif" width="20"> About me:
 
+I'm a **Computer Science & AI student at Cairo University** passionate about building intelligent systems and practical machine learning solutions. Currently focusing on Deep Learning and Gen AI.
+
+- 🔭 **Currently working on:** My Graduation Project
+- 🌱 **Currently learning:** Advanced Deep Learning architectures & Agentic AI
+- 👯 **Looking to collaborate on:** Open-source AI/ML projects and data science applications
+- 🎯 **Goals:** Becoming a full-time AI & ML Engineer
+
 ---
 
 ## <kbd><img src="./images/contact_me.gif" width="25"></kbd> Contact me:
@@ -100,7 +107,7 @@
 ----
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayman-Abd-Elsamie&theme=github-dark&hide_border=true" />
+<a href="https://git.io/streak-stats"><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Ayman-Abd-Elsamie&theme=react&border_radius=3.5" /></a>
 </p>
 </details>
 
@@ -110,13 +117,21 @@
 ----
 
 <p align="center">
-	<img alt="Ayman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayman-Abd-Elsamie&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/>
-<br/>
+	<img alt="Ayman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayman-Abd-Elsamie&show_icons=true&count_private=true&locale=en&theme=react&layout=compact" width=495 />
 </p>
 </details>
 
+<!-- Snake Eating Contributions -->
+<h3>🐍 Snake Eating My Contributions</h3>
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ayman-Abd-Elsamie/Ayman-Abd-Elsamie/output/snake.svg" alt="Snake animation" />
+</p>
+
 <!-- Top Languages -->
-<details><summary><h3>📊 Top Languages</h3></summary>
+<!-- <details><summary><h3>📊 Top Languages</h3></summary>
 
 ----
 
