@@ -127,7 +127,7 @@ I'm a **Computer Science & AI student at Cairo University** passionate about bui
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Ayman-Abd-Elsamie/Ayman-Abd-Elsamie/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Ayman-Abd-Elsamie/Ayman-Abd-Elsamie/output/snake-dark.svg" alt="Snake animation" />
 </p>
 
 <!-- Top Languages -->
